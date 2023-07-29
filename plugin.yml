@@ -2,7 +2,7 @@ name: TrashCommand
 author: antbag
 version: 0.0.1
 api: 5.0.0
-main: antbag\TrashCommand\Trash
+main: antbag\TrashCommand\Main
 
 commands:
   trash:
