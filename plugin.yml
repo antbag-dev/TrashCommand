@@ -1,0 +1,15 @@
+name: TrashCommand
+author: antbag
+version: 0.0.1
+api: 5.0.0
+main: antbag\trash\Trash
+
+commands:
+  trash:
+    description: Open the Garbage Menu
+    permission: trash.command.use
+    
+permissions:
+  trash.command.use:
+    description: permission to access the Garbage Menu
+    default: true
