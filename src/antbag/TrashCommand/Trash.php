@@ -12,7 +12,7 @@ use muqsit\invmenu\type\InvMenuTypeIds;
 
 use pocketmine\utils\TextFormat;
 
-class Trash extends PluginBase {
+class Main extends PluginBase {
   
   /**
   * @return void
