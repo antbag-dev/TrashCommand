@@ -7,7 +7,7 @@ main: antbag\TrashCommand\Main
 commands:
   trash:
     description: Open the Garbage Menu
-    permission: trash.command.use
+    permission: trashcommand.command.use
     
 permissions:
   trashcommand.command.use:
