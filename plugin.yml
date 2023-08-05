@@ -10,6 +10,6 @@ commands:
     permission: trash.command.use
     
 permissions:
-  trash.command.use:
+  trashcommand.command.use:
     description: permission to access the Garbage Menu
     default: true
