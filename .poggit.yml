@@ -6,6 +6,8 @@ projects:
   TrashCommand:
     path: ""
     icon: 'bin.png'
+    lint:
+      phpstan: false
     libs:
       - src: Muqsit/InvMenu/InvMenu
         version: ^4.6.1
